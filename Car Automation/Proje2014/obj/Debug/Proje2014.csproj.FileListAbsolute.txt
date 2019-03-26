@@ -1,0 +1,211 @@
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\bin\Debug\Proje2014.exe.config
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\bin\Debug\Proje2014.exe
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\bin\Debug\Proje2014.pdb
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form1.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form2.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Properties.Resources.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.csproj.GenerateResource.Cache
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.exe
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.pdb
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form3.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form4.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form10.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form5.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form6.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form7.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form8.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form9.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form11.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form12.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form13.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form14.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form15.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form16.resources
+C:\Users\GadgeT\Desktop\Proje2014\Proje2014\Proje2014\obj\Debug\Proje2014.Form17.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\bin\Debug\Proje2014.exe.config
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\bin\Debug\Proje2014.exe
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\bin\Debug\Proje2014.pdb
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form1.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form10.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form11.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form12.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form13.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form15.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form16.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form17.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form2.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form3.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form4.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form5.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form6.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form7.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form8.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Form9.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.Properties.Resources.resources
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.csproj.GenerateResource.Cache
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.exe
+C:\Users\CherNobyL\Desktop\Proje2014\Proje2014\obj\Debug\Proje2014.pdb
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form1.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form10.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form11.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form12.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form13.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form15.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form16.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form17.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form2.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form3.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form4.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form5.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form6.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form7.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form8.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Form9.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.Properties.Resources.resources
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.csproj.GenerateResource.Cache
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\bin\Debug\Proje2014.exe.config
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\bin\Debug\Proje2014.exe
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\bin\Debug\Proje2014.pdb
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.exe
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.pdb
+C:\Users\CherNobyL\Desktop\PROJE-2014\Proje2014\obj\Debug\Proje2014.csprojResolveAssemblyReference.cache
+D:\PROJELER\STOKTAKIP\STOKTAKIP\Proje2014\bin\Debug\Proje2014.exe.config
+D:\PROJELER\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.exe
+D:\PROJELER\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.pdb
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\bin\Debug\Proje2014.exe.config
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.exe
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.pdb
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\bin\Debug\Proje2014.exe
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\bin\Debug\Proje2014.pdb
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.csprojResolveAssemblyReference.cache
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form1.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form10.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form11.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form12.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form13.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form15.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form16.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form17.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form2.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form3.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form4.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form5.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form6.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form7.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form8.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form9.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Properties.Resources.resources
+C:\Users\Volkan\Desktop\Gazi Üniversitesi\Derslerim\3.Sınıf 2.Dönem\Bilgisayar Programlama II\Projem\STOKTAKIP (3)\STOKTAKIP\STOKTAKIP\Proje2014\obj\Debug\Proje2014.csproj.GenerateResource.Cache
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\bin\Debug\Proje2014.exe.config
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.exe
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.pdb
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\bin\Debug\Proje2014.exe
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\bin\Debug\Proje2014.pdb
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.csprojResolveAssemblyReference.cache
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form1.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form10.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form11.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form12.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form13.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form15.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form16.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form17.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form2.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form3.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form4.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form5.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form6.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form7.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form8.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form9.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Properties.Resources.resources
+C:\Users\Volkan\Desktop\STOKTAKIP\Proje2014\obj\Debug\Proje2014.csproj.GenerateResource.Cache
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\bin\Debug\Proje2014.exe.config
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.exe
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.pdb
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\bin\Debug\Proje2014.exe
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\bin\Debug\Proje2014.pdb
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.csprojResolveAssemblyReference.cache
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form1.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form10.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form11.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form12.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form13.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form15.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form16.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form17.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form2.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form3.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form4.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form5.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form6.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form7.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form8.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form9.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Properties.Resources.resources
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.csproj.GenerateResource.Cache
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Interop.WMPLib.dll
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\obj\Debug\Proje2014.csproj.ResolveComReference.cache
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\bin\Debug\Interop.WMPLib.dll
+C:\Users\volka\Desktop\Projem - Stok Takip\STOKTAKIP\Proje2014\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\bin\Debug\Proje2014.exe.config
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Interop.WMPLib.dll
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.csproj.ResolveComReference.cache
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.exe
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.pdb
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\bin\Debug\Proje2014.exe
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\bin\Debug\Proje2014.pdb
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\bin\Debug\Interop.WMPLib.dll
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.csprojResolveAssemblyReference.cache
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form1.resources
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form10.resources
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form11.resources
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form12.resources
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form13.resources
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form16.resources
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form2.resources
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form3.resources
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form4.resources
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form5.resources
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form6.resources
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form7.resources
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form8.resources
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form9.resources
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Properties.Resources.resources
+C:\Users\volka\Desktop\Projem -Servis\STOKTAKIP\Proje2014\obj\Debug\Proje2014.csproj.GenerateResource.Cache
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\bin\Debug\Proje2014.exe.config
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Interop.WMPLib.dll
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.csproj.ResolveComReference.cache
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.exe
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.pdb
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\bin\Debug\Proje2014.exe
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\bin\Debug\Proje2014.pdb
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\bin\Debug\Interop.WMPLib.dll
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.csprojResolveAssemblyReference.cache
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form1.resources
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form10.resources
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form11.resources
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form12.resources
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form13.resources
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form16.resources
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form2.resources
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form3.resources
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form4.resources
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form5.resources
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form6.resources
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form7.resources
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form8.resources
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Form9.resources
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.Properties.Resources.resources
+C:\Users\volka\Desktop\Projem -Servisasd\STOKTAKIP\Proje2014\obj\Debug\Proje2014.csproj.GenerateResource.Cache
+C:\Users\volka\Desktop\Projem -Servisasd\HONDA\Proje2014\bin\Debug\Proje2014.exe.config
+C:\Users\volka\Desktop\Projem -Servisasd\HONDA\Proje2014\obj\Debug\Interop.WMPLib.dll
+C:\Users\volka\Desktop\Projem -Servisasd\HONDA\Proje2014\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\volka\Desktop\Projem -Servisasd\HONDA\Proje2014\obj\Debug\Proje2014.csproj.ResolveComReference.cache
+C:\Users\volka\Desktop\Projem -Servisasd\HONDA\Proje2014\obj\Debug\Proje2014.exe
+C:\Users\volka\Desktop\Projem -Servisasd\HONDA\Proje2014\obj\Debug\Proje2014.pdb
